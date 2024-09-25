@@ -6,5 +6,5 @@ public static void main(String[] args) {
     empleado personal1 = new empleado("elias", 34, 78.5,1);
     personal1.muestraDatos();
     empleado personal1 = new empleado("maria", 100, 80.5,2);
-    personal1.muestraDatos();
+    personal1.muestraDatos(); 
 }
