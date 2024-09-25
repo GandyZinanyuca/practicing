@@ -10,4 +10,6 @@ public static void main(String[] args) {
 
     
     personal1.muestraDatos();
+    empleado personal1 = new empleado("maria", 100, 80.5,2);
+    personal1.muestraDatos(); 
 }
