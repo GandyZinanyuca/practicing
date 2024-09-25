@@ -5,10 +5,6 @@ import edu.pucp.personal.model.empleado;
 public static void main(String[] args) {
     System.out.println("nuevas actualizaciones");
     empleado personal1 = new empleado("elias", 34, 78.5,1);
-
-
-
-    
     personal1.muestraDatos();
     empleado personal1 = new empleado("maria", 100, 80.5,2);
     personal1.muestraDatos(); 
